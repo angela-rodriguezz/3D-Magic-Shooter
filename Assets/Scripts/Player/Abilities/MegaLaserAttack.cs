@@ -15,7 +15,7 @@ public class MegaLaserAttack : Ability
             }
         }
         var emitterShape = cc_PS.shape;
-            emitterShape.length = m_Info.Range;
+        emitterShape.length = m_Info.Range;
         cc_PS.Play();
     }
 }
