@@ -8,3 +8,6 @@ A first person, 3D platformer and shooter with elemental attacks using Unity's p
 ## Gameplay Mechanics
 
 There are two different attack animations to use. Both attacks remove health from the playable character. The red particle attack removes more health, but deals more damage and the pink particle attack removes less health for a smaller attack damage.
+
+## Playable Demo
+[Play Here 🖥️](http://www.angelarodriguezz.me/3D-Magic-Shooter/)
