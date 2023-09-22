@@ -11,7 +11,7 @@ The main goal is to gain the highest score from shooting each of the particles. 
 
 There are two different attack animations to use. Both attacks remove health from the playable character. The red particle attack removes more health, but deals more damage and the pink particle attack removes less health for a smaller attack damage.
 
-# Programming Lessons
+## Programming Lessons
 Some important coding features I now will implement in my projects are the #region and Tooltip feature. Previously, I simply generated the variable without any labels. However, the Tooltip aids in the ability to debug and recall each of the UI features you are implementing within the game. Additionally the #region allows for the categorization of certain parts of code that adds to the readability of the code.
 
 Additionally, my first introduction to Coroutines and random spawning of enemies within a 3D space. I needed to generate the enemies randomly and to always spawn infinitely. However, there couldn't be a fast generation or that will impact performance and make the game too difficult.
